@@ -222,6 +222,10 @@ Available extensions (native tiptap extensions from `tiptap-extensions` package)
 - `HardBreak`
 - `HorizontalRule`
 - `History`
+- `Table` (use with the `TableCell`, `TableHeader` and `TableRow` extensions)
+- `TableCell`
+- `TableHeader`
+- `TableRow`
 - `TodoList` (use with the `TodoItem` extension)
 - `TodoItem`
 
